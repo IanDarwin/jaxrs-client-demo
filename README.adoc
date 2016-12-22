@@ -1,0 +1,5 @@
+= JAX-RS RecipeList
+
+== How-To
+
+Just use `mvn compile exec:java`
