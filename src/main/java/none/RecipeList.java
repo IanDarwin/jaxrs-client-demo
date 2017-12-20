@@ -6,7 +6,7 @@ import javax.ws.rs.core.*;
 public class RecipeList {
 
 	final static String URL = 
-		"https://androidcookbook.com/seam/resource/rest/recipe/list";
+		"https://androidcookbook.com/rest/recipe/list";
 
 	public static void main(String[] args) {
 
